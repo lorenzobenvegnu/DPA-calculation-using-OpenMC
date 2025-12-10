@@ -1,0 +1,5 @@
+import openmc
+import math
+import numpy as np
+import matplotlib.pyplot as plt
+%env OPENMC_CROSS_SECTIONS=/home/benve/lib/endfb80/endfb-viii.0-hdf5/cross_sections.xml
